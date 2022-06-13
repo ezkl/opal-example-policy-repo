@@ -20,6 +20,13 @@
         "country": "US",
         "ip": "8.8.4.4"
       }
+    },
+    "tom": {
+      "roles": ["admin"],
+      "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
     }
   },
   "role_permissions": {
